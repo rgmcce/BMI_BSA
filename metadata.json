@@ -1,0 +1,5 @@
+{
+  "name": "BSA & BMI Calculator",
+  "description": "身長と体重からBSA（体表面積）とBMI（体格指数）を計算するアプリケーション。",
+  "requestFramePermissions": []
+}
